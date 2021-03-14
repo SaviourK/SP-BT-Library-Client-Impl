@@ -1,0 +1,23 @@
+# Build
+.m2
+.gitlab-ci.yml
+bin
+target
+
+# Eclipse
+.classpath
+.project
+.settings
+.metadata
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.yml
+
+# Project
+override.properties
+
+# Other  
+gitflow
